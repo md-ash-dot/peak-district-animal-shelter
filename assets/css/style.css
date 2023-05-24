@@ -7,7 +7,22 @@
 }
 
 body {
-    font-family: quicksand, sans-serif;
+    font-family: Open sans, sans-serif;
     font-weight: 400;
+    color: green;
+}
 
+/* headings and logo */
+
+h1,
+h2 {
+    font-family: Quicksand, sans-serif;
+    color: crimson;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+#logo {
+    float: left;
+    font-size: 250%;
 }

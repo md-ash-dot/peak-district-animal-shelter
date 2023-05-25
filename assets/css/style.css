@@ -26,3 +26,34 @@ h2 {
     float: left;
     font-size: 250%;
 }
+
+/* navigation menu */
+
+#navigation {
+    letter-spacing: 3px;
+    font-size: 150%;
+    float: right;
+}
+
+#navigation,
+#logo {
+    line-height: 75px;
+}
+
+#navigation li {
+    list-style-type: none;
+    float: left;
+    margin-right: 20px;
+}
+
+#navigation a {
+    text-decoration: none;
+}
+
+#navigation a:hover {
+    border-bottom: 1px solid black;
+}
+
+.active {
+    border-bottom: 1px solid black;
+}

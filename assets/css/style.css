@@ -57,3 +57,36 @@ h2 {
 .active {
     border-bottom: 1px solid black;
 }
+
+/* hero image */
+
+#hero-outer {
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+}
+
+#hero-image {
+    width: 100%;
+    height: 600px;
+    background: url(../images/hero-image-cat.jpg) no-repeat center center;
+
+    /* hero image animation on landing page */
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+
+/* level of zoom of hero image */
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1.5);
+    }
+
+    to {
+        transform: scale(1);
+    }
+}

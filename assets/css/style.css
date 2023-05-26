@@ -159,6 +159,7 @@ h2 {
     background: rgba(0, 0, 0, .6);
     text-align: center;
     border: 1px solid white;
+    box-sizing: border-box;
 }
 
 /* footer */

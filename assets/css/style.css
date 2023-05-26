@@ -143,7 +143,7 @@ h2 {
 /* animal meeting times */
 
 #times {
-    background-image: url(../images/ladybower-reservoir-4277806_1920.jpg);
+    background-image: url(../images/paw-7231300_1920.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -154,6 +154,11 @@ h2 {
 #times div {
     float: left;
     width: 25%;
+    height: 300px;
+    color: #fafafa;
+    background: rgba(0, 0, 0, .6);
+    text-align: center;
+    border: 1px solid white;
 }
 
 /* footer */

@@ -138,3 +138,15 @@ h2 {
     background-color: yellow;
     display: inline-block;
 }
+
+/* animal meeting times */
+
+#times {
+    background-image: url(../images/ladybower-reservoir-4277806_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+
+}

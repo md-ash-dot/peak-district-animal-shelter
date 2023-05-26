@@ -113,38 +113,63 @@ h2 {
 /* About us */
 
 #about-us {
-    height: 300px;
+    height: 600px;
+}
+
+#about-heading {
+    text-align: center;
+    padding-top: 30px;
+}
+
+#about-us p {
+    padding: 30px;
+    text-align: center;
 }
 
 #left-about {
     float: left;
     width: 33%;
-    padding-top: 20px;
-    /* background-color: red; */
+    padding-top: 30px;
     display: inline-block;
+    line-height: 25px;
+}
+
+#left-about-heading {
+    text-align: center;
+    line-height: 30px;
 }
 
 #right-about {
     float: right;
     width: 33%;
-    padding-top: 20px;
-    /* background-color: blue; */
+    padding-top: 30px;
     display: inline-block;
+    line-height: 25px;
+}
+
+#right-about-heading {
+    text-align: center;
+    line-height: 30px;
 }
 
 #center-about {
     margin: 0 auto;
     width: 33%;
-    padding-top: 20px;
-    /* background-color: yellow; */
+    padding-top: 30px;
     display: inline-block;
+    line-height: 25px;
+}
+
+#center-about-heading {
+    text-align: center;
+    line-height: 30px;
 }
 
 /* animal meeting times */
 
 #invite-heading {
     text-align: center;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
 }
 
 #times {

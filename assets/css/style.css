@@ -142,6 +142,11 @@ h2 {
 
 /* animal meeting times */
 
+#invite-heading {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
 #times {
     background-image: url(../images/paw-7231300_1920.jpg);
     background-repeat: no-repeat;

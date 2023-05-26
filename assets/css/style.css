@@ -24,7 +24,8 @@ h2 {
 
 #logo {
     float: left;
-    font-size: 250%;
+    font-size: 150%;
+    padding: 20px;
 }
 
 /* navigation menu */
@@ -33,6 +34,7 @@ h2 {
     letter-spacing: 3px;
     font-size: 150%;
     float: right;
+    padding: 20px;
 }
 
 #navigation,
@@ -48,6 +50,7 @@ h2 {
 
 #navigation a {
     text-decoration: none;
+    color: #444848;
 }
 
 #navigation a:hover {
@@ -113,7 +116,7 @@ h2 {
 /* About us */
 
 #about-us {
-    height: 600px;
+    height: 400px;
 }
 
 #about-heading {
@@ -190,7 +193,7 @@ h2 {
     text-align: center;
     border: 1px solid white;
     box-sizing: border-box;
-    padding-top: 30px;
+    padding-top: 80px;
 }
 
 #times h2 {

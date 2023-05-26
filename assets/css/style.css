@@ -108,3 +108,33 @@ h2 {
     bottom: 50px;
     position: absolute;
 }
+
+/* About us */
+
+#about-us {
+    height: 600px;
+}
+
+#left-about {
+    float: left;
+    width: 33%;
+    padding-top: 20px;
+    background-color: red;
+    display: inline-block;
+}
+
+#right-about {
+    float: right;
+    width: 33%;
+    padding-top: 20px;
+    background-color: blue;
+    display: inline-block;
+}
+
+#center-about {
+    margin: 0 auto;
+    width: 33%;
+    padding-top: 20px;
+    background-color: yellow;
+    display: inline-block;
+}

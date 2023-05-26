@@ -7,17 +7,17 @@
 }
 
 body {
-    /* font-family: Open sans, sans-serif; */
+    font-family: Open sans, sans-serif;
     font-weight: 400;
-    color: green;
+    color: #444848;
 }
 
 /* headings and logo */
 
 h1,
 h2 {
-    /* font-family: Quicksand, sans-serif; */
-    color: crimson;
+    font-family: Quicksand, sans-serif;
+    color: #484444;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
@@ -37,7 +37,7 @@ h2 {
 
 #navigation,
 #logo {
-    line-height: 75px;
+    line-height: 50px;
 }
 
 #navigation li {
@@ -112,14 +112,14 @@ h2 {
 /* About us */
 
 #about-us {
-    height: 600px;
+    height: 300px;
 }
 
 #left-about {
     float: left;
     width: 33%;
     padding-top: 20px;
-    background-color: red;
+    /* background-color: red; */
     display: inline-block;
 }
 
@@ -127,7 +127,7 @@ h2 {
     float: right;
     width: 33%;
     padding-top: 20px;
-    background-color: blue;
+    /* background-color: blue; */
     display: inline-block;
 }
 
@@ -135,7 +135,7 @@ h2 {
     margin: 0 auto;
     width: 33%;
     padding-top: 20px;
-    background-color: yellow;
+    /* background-color: yellow; */
     display: inline-block;
 }
 

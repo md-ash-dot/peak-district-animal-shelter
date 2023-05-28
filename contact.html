@@ -37,30 +37,27 @@
             <h2>Drop in your details and we will get in touch with you shortly.</h2>
 
             <label for="fname">First Name</label>
-            <input type="text" id="fname" name="first_name" required>
+            <input type="text" id="fname" name="first_name" class="text-input" required>
 
             <label for="lname">Last Name</label>
-            <input type="text" id="lname" name="last_name" required>
+            <input type="text" id="lname" name="last_name" class="text-input" required>
 
             <label for="mail">Email Address</label>
-            <input type="email" id="email" name="email_address" required>
+            <input type="email" id="email" name="email_address" class="text-input" required>
 
             <label for="phone">Phone Number</label>
-            <input type="tel" id="phone" name="phone_number" required>
-
-            <label for="mail">Email Address</label>
-            <input type="email" id="email" name="email_address" required>
+            <input type="tel" id="phone" name="phone_number" class="text-input" required>
 
             <label for="adopt">Adopt</label>
-            <input type="radio" id="adopt" name="contact_reason" value="adopt">
+            <input type="radio" id="adopt" name="contact_reason" value="adopt" class="radio-input">
 
             <label for="volunteer">Volunteer</label>
-            <input type="radio" id="volunteer" name="contact_reason" value="volunteer">
+            <input type="radio" id="volunteer" name="contact_reason" value="volunteer" class="radio-input">
 
             <label for="other">Other Queries</label>
-            <input type="radio" id="other" name="contact_reason" value="other">
+            <input type="radio" id="other" name="contact_reason" value="other" class="radio-input">
 
-            <textarea name="additional_information" id="more-info" cols="30" rows="10"
+            <textarea name="additional_information" id="more-info" cols="40" rows="5"
                 placeholder="Tell us more..."></textarea>
 
             <input type="submit" value="Contact Me" class="submit-button">

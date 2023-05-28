@@ -241,13 +241,9 @@ footer {
 /* Contact page */
 
 .form-section {
-
+    clear: both;
 }
 
-.contact-form {
+.contact-form {}
 
-}
-
-.submit-button {
-    
-}
+.submit-button {}

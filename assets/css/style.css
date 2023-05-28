@@ -301,3 +301,9 @@ textarea {
 textarea::placeholder {
     color: #444848;
 }
+
+/* find us at */
+
+#find-us {
+    text-align: center;
+}

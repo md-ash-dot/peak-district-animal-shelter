@@ -176,7 +176,7 @@ h2 {
 }
 
 #times {
-    background-image: url(../images/paw-7231300_1920.jpg);
+    background-image: url(../images/paw-and-hand.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -223,4 +223,17 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #484444;
+}
+
+/* Animals page */
+
+#animal-photos {
+    clear: both;
+    line-height: 0;
+    column-gap: 0;
+    column-count: 3;
+}
+
+#animal-photos img {
+    width: 100%;
 }

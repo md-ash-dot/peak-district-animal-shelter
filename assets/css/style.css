@@ -54,11 +54,11 @@ h2 {
 }
 
 #navigation a:hover {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #444848;
 }
 
 .active {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #eb1b17;
 }
 
 /* hero image */
@@ -95,6 +95,8 @@ h2 {
     }
 }
 
+/* cover text */
+
 #cover-text {
     font-size: 150%;
     text-transform: uppercase;
@@ -113,6 +115,10 @@ h2 {
     position: absolute;
 }
 
+#cover-text h2 {
+    color: #eb1b17;
+}
+
 /* About us */
 
 #about-us {
@@ -122,6 +128,7 @@ h2 {
 #about-heading {
     text-align: center;
     padding-top: 30px;
+    color: #eb1b17;
 }
 
 #about-us p {
@@ -173,6 +180,7 @@ h2 {
 #invite-heading {
     text-align: center;
     padding-bottom: 0px;
+    color: #eb1b17;
 }
 
 #times {
@@ -259,7 +267,7 @@ footer {
 
 .form-section h2 {
     text-align: center;
-    color: #fafafa;
+    color: #eb1b17;
     margin-bottom: 20px;
 }
 
@@ -274,7 +282,7 @@ footer {
 }
 
 .text-input:hover {
-    border-color: #f16c6b;
+    border-color: #eb1b17;
 }
 
 .submit-button {
@@ -283,13 +291,13 @@ footer {
     text-align: center;
     font-size: 100%;
     display: block;
-    background-color: #f16c6b;
+    background-color: #eb1b17;
     color: #fafafa;
 }
 
 .submit-button:hover {
     background-color: #fafafa;
-    color: #f16c6b;
+    color: #eb1b17;
 }
 
 textarea {
@@ -299,7 +307,7 @@ textarea {
 }
 
 textarea::placeholder {
-    color: #f16c6b;
+    color: #eb1b17;
 }
 
 /* find us at */

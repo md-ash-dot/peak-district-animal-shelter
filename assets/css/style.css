@@ -307,3 +307,26 @@ textarea::placeholder {
 #find-us {
     text-align: center;
 }
+
+/* Media Queries */
+
+/*For larger to medium screens size from 1200px wide and below */
+@media screen and (max-width: 1200px) {
+    #about-us {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #about-heading {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    #left-about,
+    #center-about,
+    #right-about {
+        width: 100%;
+        padding: 0;
+    }
+}

@@ -241,7 +241,7 @@ footer {
 /* Contact page */
 
 .contact-form {
-    margin: 150px 10% 0 0;
+    margin: 100px 5% 0 0;
     background-color: rgba(0, 0, 0, .4);
     color: #fafafa;
     max-width: 500px;
@@ -338,7 +338,7 @@ textarea::placeholder {
     }
 }
 
-/* For medium screen sizes from 95px wide and down */
+/* For medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
     #navigation {
         clear: left;
@@ -358,4 +358,19 @@ textarea::placeholder {
         margin: 0 auto;
     }
 
+    #animal-photos {
+        column-count: 2;
+    }
+
+    .contact-form {
+        left: 0;
+    }
+
+}
+
+/* For small screen sizes 800px and down */
+@media screen and (max-width: 800px) {
+    #animal-photos {
+        column-count: 1;
+    }
 }

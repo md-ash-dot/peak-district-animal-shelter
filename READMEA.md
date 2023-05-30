@@ -62,9 +62,37 @@ Users of this webiste will be able to find out about what we do for animals, how
   - Clicking any of the links will open a seperate tab leaving the website open in the background for the users to easily return to, if they wish to do so.
 ![Footer](/assets/images/footer.JPG)
 
+### FEATURES LEFT TO IMPLEMENT
+
+- A seperate page showcasing videos, that can be controlled by the users, showcasing the infrastructure, activities and work carried out by the shelter.
+- Article with audio elemnts which could help users get more information and updates on the shelter.
+- Feedback section for users who have visited the shelter.
+
 ## TESTING
 
+- This website has been tested to check if it works on different browsers such as Google Chrome, Microsoft Edge, Mozilla Firefox, Safari and Samsung internet.
+- The website has been tested using the dev tools device toolbar on the browser to check if it functions and looks good on all standard screen sizes, showing it uses reponsive design.
+- All text on the website has been checked to see if it is readable and is easy to understand.
+- The contact form has been tested to make sure all fields apart from the optional radio buttons and textarea field are required to submit the form. And the submit button works.
+
 ## BUGS
+
+### SOLVED BUGS
+
+- The hero image disappeared after adding no-repeat center center after the url.
+  Fix: Changed the background-image property to background.
+  
+- The hero-outer properties were not getting applied.
+  Fix: Id of hero-outer had a space in the name instead of (-), so used the right format.
+
+- The hero-image animation was not working.
+  Fix: Animation rules were placed outside the curly brackets. Moved the rules inside the brackets.
+  
+- Font-awesome icons were not appearing.
+  Fix: The initial font awesome code used was incorrect and had to be corrected and the icons started working.
+
+- Cover text position was not relative to the image.
+  Fix: Add position of relative to the parent element, so child elements can set it's postion absolute to it.
 
 ## VALIDATOR TESTING
 

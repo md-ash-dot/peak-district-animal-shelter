@@ -122,7 +122,7 @@ The live link can be found here - [Peak District Animal Shelter](https://md-ash-
 ### CONTENT
 
 - The Love Running project done by Code Institute has been the code which was used to learn how to build this website. - [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/f2db5fd401004fccb43b01a6066a5333/)
-- Foating navigation elements with the direction inverted was with the help of this [Link](https://codepen.io/ConStambo/pen/WxRQVq)
+- Floating navigation elements with the direction inverted was with the help of this [Link](https://codepen.io/ConStambo/pen/WxRQVq)
 - Animation fill mode for hero-image was with the help of this [Link](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode)
 
 ### MEDIA

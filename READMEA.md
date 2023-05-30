@@ -80,21 +80,31 @@ Users of this webiste will be able to find out about what we do for animals, how
 ### SOLVED BUGS
 
 - The hero image disappeared after adding no-repeat center center after the url.
-  Fix: Changed the background-image property to background.
+  - Fix: Changed the background-image property to background.
   
 - The hero-outer properties were not getting applied.
-  Fix: Id of hero-outer had a space in the name instead of (-), so used the right format.
+  - Fix: Id of hero-outer had a space in the name instead of (-), so used the right format.
 
 - The hero-image animation was not working.
-  Fix: Animation rules were placed outside the curly brackets. Moved the rules inside the brackets.
+  - Fix: Animation rules were placed outside the curly brackets. Moved the rules inside the brackets.
   
 - Font-awesome icons were not appearing.
-  Fix: The initial font awesome code used was incorrect and had to be corrected and the icons started working.
+  - Fix: The initial font awesome code used was incorrect and had to be corrected and the icons started working.
 
 - Cover text position was not relative to the image.
-  Fix: Add position of relative to the parent element, so child elements can set it's postion absolute to it.
+  - Fix: Add position of relative to the parent element, so child elements can set it's postion absolute to it.
 
 ## VALIDATOR TESTING
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
+
+- CSS
+  - No errors were found when passing through the official official [Jigsaw validator](https://jigsaw.w3.org/css-validator/)
+
+- ACCESSIBILITY
+  - The colours and fonts used are easy to read and checked using lighthouse in devtools.
+![Accessibility score](/assets/images/)
 
 ## DEPLOYMENT
 

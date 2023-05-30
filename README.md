@@ -128,4 +128,4 @@ The live link can be found here - [Peak District Animal Shelter](https://md-ash-
 
 - All icons used on this website are from [Font Awesome](https://fontawesome.com/)
 - All images used on this website are from [Pixabay](https://pixabay.com/)
-- Videos used on this website are from [Youtube](https://www.youtube.com/watch?v=W3IzCkjGQ_E&ab_channel=LittleOrphanKittens)
+- Videos used on this website are from [Feeding Kitten](https://www.youtube.com/watch?v=W3IzCkjGQ_E&ab_channel=LittleOrphanKittens) and [Puppies playing](https://www.youtube.com/watch?v=CSWN9u4iqL8&ab_channel=BeagleUniverse)

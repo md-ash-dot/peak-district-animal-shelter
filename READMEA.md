@@ -8,7 +8,17 @@ Users of this webiste will be able to find out about what we do for animals, how
 
 ## FEATURES
 
-### NAVIGATION
+### EXISTING FEATURES
+
+- **NAVIGATION**
+  - The navigation is featured on the top of the page, with the name on the top left: PEAK DISTRICT ANIMAL SHELTER, that also links to the top of the home page.
+  - The other navigation links are on the top right: Home, Animals, Contact.
+  - The Home navigation link brings you back to the home page from any page of the website.
+  - The Animal navigation link takes you to a different page where the animal photos are featured.
+  - The Conatct navigation link takes you to a different page where a conatct form and find us at details are featured.
+  - the navigation can clearly show the name of the website and all other pages that the users can navigate to easily from any of the pages of the website.
+
+![Navigation screenshot](/assets/images/)
 
 ### HEADER
 

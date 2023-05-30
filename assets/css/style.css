@@ -344,6 +344,10 @@ textarea::placeholder {
         height: 150px;
         padding: 0;
     }
+
+    iframe {
+        width: 100%;
+    }
 }
 
 /* For medium screen sizes from 950px wide and down */

@@ -36,10 +36,11 @@ Users of this webiste will be able to find out about what we do for animals, how
   - The days, time and the animals available to meet are specified in a simple and easy to read way using a small table.
 ![Animal meeting time table](/assets/images/animal-meeting-times.JPG)
 
-- **ANIMAL PHOTOS**
+- **ANIMALS PAGE**
   - The animal photos are featured on a seperate page which can be navigated to from the Animal Navigation Link on the top of the website.
   - The animal photos are featured together using masonry style, as each image may not be related to the other and therefore grouping them seperately would not be necessary.
   - The animal photos at first glance show the animals and what we do at the shelter and how we care for them.
+  - Two youtube videos are also embeded on this page showing a tutorial on feeding kittens and dogs playing.
 ![Animal photos](/assets/images/animal-photos.JPG)
 
 - **CONTACT FORM**

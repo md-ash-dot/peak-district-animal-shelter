@@ -1,40 +1,131 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# PEAK DISTRICT ANIMAL SHELTER
 
-Welcome,
+The Peak District Animal Shelter website is a landing page for members of the public looking to find out about who we are and what we do.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Users of this webiste will be able to find out about what we do for animals, how they can play a part in all of it, when they can meet the animals, fill out a contact form so they can be reached out to and also getting information on where to find us, our contact details etc.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+![Responsive mockup](/assets/images/screens.JPG)
 
-## Codeanywhere Reminders
+## FEATURES
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+### EXISTING FEATURES
 
-`python3 -m http.server`
+- **NAVIGATION**
+  - The navigation is featured on the top of the page, with the name on the top left: PEAK DISTRICT ANIMAL SHELTER, that also links to the top of the home page.
+  - The other navigation links are on the top right: Home, Animals, Contact.
+  - The Home navigation link brings you back to the home page from any page of the website.
+  - The Animal navigation link takes you to a different page where the animal photos are featured.
+  - The Conatct navigation link takes you to a different page where a conatct form and find us at details are featured.
+  - The navigation can clearly show the name of the website and all other pages that the users can navigate to easily from any of the pages of the website.
+![Navigation screenshot](/assets/images/Navigation.JPG)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- **LANDING PAGE**
+  - The landing page displays a hero image below the navigation.
+  - The hero image is an image of a closeup photo of a cat. The image is animated using @keyframe, the image shows the animation effect on loading of the page.
+  - There is a welcome message with three points Rescue, Love and Repeat, which floats on top of the hero image.
+![Landing page hero image](/assets/images/Landing-hero.JPG)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+- **WHAT WE DO SECTION**
+  - The what we do section has thee parts, explaining what we do explained with short paragraphs.
+  - The three parts Animal Rescue, Shelter & Care and Adoption services are layed out next to each other to show at first glance about things we primarily do, telling the users about us.
+![What we do section](/assets/images/what-we-do.JPG)
 
-`http_server`
+- **ANIMAL MEETING TIMES**
+  - The animal meeting times section has a header inviting the general public to come meet our animals.
+  - There are four days on when the animals can be met at specific times, this can be understood by users on first glance of the section.
+  - The days, time and the animals available to meet are specified in a simple and easy to read way using a small table.
+![Animal meeting time table](/assets/images/animal-meeting-times.JPG)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- **ANIMAL PHOTOS**
+  - The animal photos are featured on a seperate page which can be navigated to from the Animal Navigation Link on the top of the website.
+  - The animal photos are featured together using masonry style, as each image may not be related to the other and therefore grouping them seperately would not be necessary.
+  - The animal photos at first glance show the animals and what we do at the shelter and how we care for them.
+![Animal photos](/assets/images/animal-photos.JPG)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- **CONTACT FORM**
+  - The contact form is featured on a seperate page which can be navigated to from the Contact Navigation Link on the top the website.
+  - The contact form has a background image of a dog holding a phone, which represents the purpose of that particular page.
+  - The contact form has text input fields for first name, last name, email address, phone number, three radio buttons asking the reason: Adopt, Volunteer & Other Queries.
+  - The submit button is featured with a value of Contact Me.
+![Conatct form](/assets/images/contact-form.JPG)
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- **FIND US AT**
+  - The find us at section can be found right below the contact form, so users who might want to conctact or get to us right away can find us.
+  - A google maps windows with the location is featured in the section, helping users find our location easily using this feature.
+  - The address email address and phone number can be found right below the google maps window, making it easy for the users to find everything they need at first glance.
+![Find us at](/assets/images/find-us-at.JPG)
 
-To log into the Heroku toolbelt CLI:
+- **FOOTER**
+  - The footer can be found at the bottom of all pages. Making it easy for users at any point, be taken outside to the coressponding pages.
+  - The social media pages are listed here using the icons to represent them.
+  - Facebook, Instagram, Youtube and Twitter accounts can be neavigated to from the footer from any of the pages.
+  - Clicking any of the links will open a seperate tab leaving the website open in the background for the users to easily return to, if they wish to do so.
+![Footer](/assets/images/footer.JPG)
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### FEATURES LEFT TO IMPLEMENT
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+- A seperate page showcasing videos, that can be controlled by the users, showcasing the infrastructure, activities and work carried out by the shelter.
+- Article with audio elemnts which could help users get more information and updates on the shelter.
+- Feedback section for users who have visited the shelter.
 
----
+## TESTING
 
-Happy coding!
+- This website has been tested to check if it works on different browsers such as Google Chrome, Microsoft Edge, Mozilla Firefox, Safari and Samsung internet.
+- The website has been tested using the dev tools device toolbar on the browser to check if it functions and looks good on all standard screen sizes, showing it uses reponsive design.
+- All text on the website has been checked to see if it is readable and is easy to understand.
+- The contact form has been tested to make sure all fields apart from the optional radio buttons and textarea field are required to submit the form. And the submit button works.
+
+## BUGS
+
+### SOLVED BUGS
+
+- The hero image disappeared after adding no-repeat center center after the url.
+  - Fix: Changed the background-image property to background.
+  
+- The hero-outer properties were not getting applied.
+  - Fix: Id of hero-outer had a space in the name instead of (-), so used the right format.
+
+- The hero-image animation was not working.
+  - Fix: Animation rules were placed outside the curly brackets. Moved the rules inside the brackets.
+  
+- Font-awesome icons were not appearing.
+  - Fix: The initial font awesome code used was incorrect and had to be corrected and the icons started working.
+
+- Cover text position was not relative to the image.
+  - Fix: Add position of relative to the parent element, so child elements can set it's postion absolute to it.
+
+## VALIDATOR TESTING
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
+
+- CSS
+  - No errors were found when passing through the official official [Jigsaw validator](https://jigsaw.w3.org/css-validator/)
+
+- ACCESSIBILITY
+  - The colours and fonts used are easy to read and checked using lighthouse in devtools.
+![Accessibility score](/assets/images/score.JPG)
+
+## DEPLOYMENT
+
+- This site was deployed using GitHub pages. The steps used to deploy are:
+  - In the GitHub repository go to the setting section.
+  - Select the main branch as default branch
+  - Go to the pages section and set branch to main and save.
+  - Once done, the page provided link to the completed website.
+
+The live link can be found here - [Peak District Animal Shelter](https://md-ash-dot.github.io/peak-district-animal-shelter/)
+
+## CREDITS
+
+### CONTENT
+
+- The Love Running project done by Code Institute has been the code which was used to learn how to build this website. - [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/f2db5fd401004fccb43b01a6066a5333/)
+- Foating navigation elements with the direction inverted was with the help of this [Link](https://codepen.io/ConStambo/pen/WxRQVq)
+- Animation fill mode for hero-image was with the help of this [Link](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode)
+
+### MEDIA
+
+- All icons used on this website are from [Font Awesome](https://fontawesome.com/)
+- All images used on this website are from [Pixabay](https://pixabay.com/)
 

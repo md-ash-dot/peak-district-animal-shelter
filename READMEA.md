@@ -108,6 +108,14 @@ Users of this webiste will be able to find out about what we do for animals, how
 
 ## DEPLOYMENT
 
+- This site was deployed using GitHub pages. The steps used to deploy are:
+  - In the GitHub repository go to the setting section.
+  - Select the main branch as default branch
+  - Go to the pages section and set branch to main and save.
+  - Once done, the page provided link to the completed website.
+
+The live link can be found here - [Peak District Animal Shelter](https://md-ash-dot.github.io/peak-district-animal-shelter/)
+
 ## CREDITS
 
 ### CONTENT

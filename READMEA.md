@@ -4,7 +4,7 @@ The Peak District Animal Shelter website is a landing page for members of the pu
 
 Users of this webiste will be able to find out about what we do for animals, how they can play a part in all of it, when they can meet the animals, fill out a contact form so they can be reached out to and also getting information on where to find us, our contact details etc.
 
-![Screen shot created using https://ui.dev/amiresponsive, to show the the website uses responsive design](<https://ui.dev/amiresponsive?url=https://md-ash-dot.github.io/peak-district-animal-shelter/>)
+![Responsive mockup](/assets/images/screens.JPG)
 
 ## FEATURES
 

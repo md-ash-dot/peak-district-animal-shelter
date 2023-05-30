@@ -95,6 +95,9 @@ Users of this webiste will be able to find out about what we do for animals, how
 - Cover text position was not relative to the image.
   - Fix: Add position of relative to the parent element, so child elements can set it's postion absolute to it.
 
+- All my font-awesome icons were not visible.
+  - Added cdn link to the head to get the icons to load.
+
 ## VALIDATOR TESTING
 
 - HTML

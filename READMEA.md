@@ -18,9 +18,12 @@ Users of this webiste will be able to find out about what we do for animals, how
   - The Conatct navigation link takes you to a different page where a conatct form and find us at details are featured.
   - the navigation can clearly show the name of the website and all other pages that the users can navigate to easily from any of the pages of the website.
 
-![Navigation screenshot](/assets/images/)
+![Navigation screenshot](/assets/images/Navigation.JPG)
 
-### HEADER
+- **LANDING PAGE**
+  - The landing page displays a hero image below the navigation.
+  - The hero image is an image of a closeup photo of a cat. The image is animated using @keyframe, the image shows the animation effect on loading of the page.
+  - Ther
 
 ### ABOUT US
 

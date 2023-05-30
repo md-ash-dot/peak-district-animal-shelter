@@ -16,26 +16,51 @@ Users of this webiste will be able to find out about what we do for animals, how
   - The Home navigation link brings you back to the home page from any page of the website.
   - The Animal navigation link takes you to a different page where the animal photos are featured.
   - The Conatct navigation link takes you to a different page where a conatct form and find us at details are featured.
-  - the navigation can clearly show the name of the website and all other pages that the users can navigate to easily from any of the pages of the website.
-
+  - The navigation can clearly show the name of the website and all other pages that the users can navigate to easily from any of the pages of the website.
 ![Navigation screenshot](/assets/images/Navigation.JPG)
 
 - **LANDING PAGE**
   - The landing page displays a hero image below the navigation.
   - The hero image is an image of a closeup photo of a cat. The image is animated using @keyframe, the image shows the animation effect on loading of the page.
-  - Ther
+  - There is a welcome message with three points Rescue, Love and Repeat, which floats on top of the hero image.
+![Landing page hero image](/assets/images/Landing-hero.JPG)
 
-### ABOUT US
+- **WHAT WE DO SECTION**
+  - The what we do section has thee parts, explaining what we do explained with short paragraphs.
+  - The three parts Animal Rescue, Shelter & Care and Adoption services are layed out next to each other to show at first glance about things we primarily do, telling the users about us.
+![What we do section](/assets/images/what-we-do.JPG)
 
-### TIMES
+- **ANIMAL MEETING TIMES**
+  - The animal meeting times section has a header inviting the general public to come meet our animals.
+  - There are four days on when the animals can be met at specific times, this can be understood by users on first glance of the section.
+  - The days, time and the animals available to meet are specified in a simple and easy to read way using a small table.
+![Animal meeting time table](/assets/images/animal-meeting-times.JPG)
 
-### ANIMAL PHOTOS
+- **ANIMAL PHOTOS**
+  - The animal photos are featured on a seperate page which can be navigated to from the Animal Navigation Link on the top of the website.
+  - The animal photos are featured together using masonry style, as each image may not be related to the other and therefore grouping them seperately would not be necessary.
+  - The animal photos at first glance show the animals and what we do at the shelter and how we care for them.
+![Animal photos](/assets/images/animal-photos.JPG)
 
-### CONTACT FORM
+- **CONTACT FORM**
+  - The contact form is featured on a seperate page which can be navigated to from the Contact Navigation Link on the top the website.
+  - The contact form has a background image of a dog holding a phone, which represents the purpose of that particular page.
+  - The contact form has text input fields for first name, last name, email address, phone number, three radio buttons asking the reason: Adopt, Volunteer & Other Queries.
+  - The submit button is featured with a value of Contact Me.
+![Conatct form](/assets/images/contact-form.JPG)
 
-### FIND US AT
+- **FIND US AT**
+  - The find us at section can be found right below the contact form, so users who might want to conctact or get to us right away can find us.
+  - A google maps windows with the location is featured in the section, helping users find our location easily using this feature.
+  - The address email address and phone number can be found right below the google maps window, making it easy for the users to find everything they need at first glance.
+![Find us at](/assets/images/find-us-at.JPG)
 
-### FOOTER
+- **FOOTER**
+  - The footer can be found at the bottom of all pages. Making it easy for users at any point, be taken outside to the coressponding pages.
+  - The social media pages are listed here using the icons to represent them.
+  - Facebook, Instagram, Youtube and Twitter accounts can be neavigated to from the footer from any of the pages.
+  - Clicking any of the links will open a seperate tab leaving the website open in the background for the users to easily return to, if they wish to do so.
+![Footer](/assets/images/footer.JPG)
 
 ## TESTING
 

@@ -104,7 +104,7 @@ Users of this webiste will be able to find out about what we do for animals, how
 
 - ACCESSIBILITY
   - The colours and fonts used are easy to read and checked using lighthouse in devtools.
-![Accessibility score](/assets/images/)
+![Accessibility score](/assets/images/score.JPG)
 
 ## DEPLOYMENT
 
